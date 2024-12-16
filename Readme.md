@@ -1,17 +1,6 @@
 <div align="center">
-
-⭐ **If you like this project, please star the repository!** ⭐ <br>
-------- 👇 **Template Demo Below** 👇 --------
-
-<hr>
-</div>
-
-<div align="center">
-<a href="https://github.com/Sumonta056/Personalized-AI-Advisor" target="blank">
 <img src="./assets/chatBot.png" width="90" alt="Logo" />
-</a>
-
-<h2> Project Name: Personalized AI Advisor </h2>
+<h2> Personalized AI Advisor </h2>
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -20,7 +9,7 @@
 ![](https://img.shields.io/badge/Gemini_API-3982CE?style=for-the-badge&logo=data&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<img src="./assets/bg-3.webp" width="80%" alt="Background">
+https://github.com/user-attachments/assets/b1f3d9f8-8ddf-403b-a483-7fe21d737e43
 
 </div>
 
