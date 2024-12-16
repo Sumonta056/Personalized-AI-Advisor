@@ -1,6 +1,8 @@
 "use client";
 import { useState, useEffect } from "react";
 import ReactMarkdown from "react-markdown";
+import logo from "./assets/robot.png";
+import Image from "next/image";
 
 function AdviceSection({ advice }: { advice: string }) {
   return (
@@ -32,7 +34,7 @@ export default function Home() {
     default: "bg-gradient-to-r from-blue-500 to-purple-600",
   };
 
-  const introText = "Hi! I am your personal mood advisor. Give the following details.";
+  const introText = "Hi! I am your personal mood advisor.";
 
   useEffect(() => {
     if (textIndex < introText.length) {
@@ -77,22 +79,9 @@ export default function Home() {
     >
       <div className="flex items-center space-x-3 mb-6">
         <div className="bg-gray-200 text-gray-700 p-3 rounded-full shadow-md">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            className="h-6 w-6"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
-          >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              d="M12 14l9-5-9-5-9 5 9 5z"
-            />
-          </svg>
+          <Image src={logo} alt="Robot Logo" width={50} height={50} />
         </div>
-        <h1 className="text-4xl font-bold">{introText.slice(0, textIndex)}</h1>
+        <h1 className="text-2xl font-bold">{introText.slice(0, textIndex)}</h1>
       </div>
       <div className="bg-white p-6 rounded-lg shadow-md w-full max-w-md text-gray-800">
         <label htmlFor="name" className="block text-lg font-medium mb-2">
