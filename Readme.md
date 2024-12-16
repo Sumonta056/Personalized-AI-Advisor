@@ -75,7 +75,7 @@ Follow these steps to set up the project on your local machine.
 
 ## 📖 Usage (✔ Running the Website):
 
-- **Start Backend**: npm start
+- **Start Backend**: `npm start`
 - **Start Frontend**:
   - `cd mood-quote-frontend`
   - `npm run dev`
