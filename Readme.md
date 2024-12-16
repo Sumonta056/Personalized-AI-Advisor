@@ -17,8 +17,6 @@ https://github.com/user-attachments/assets/248c1d8b-149c-4a40-9b6b-5198be731be0
 
 **Personalized AI Advisor** is a Next.js-based application powered by a Node.js backend and Gemini AI API. It delivers personalized advice and motivation based on the user's name, profession, and current mood. Designed with an engaging and user-friendly interface, this app makes your day brighter with tailored suggestions.
 
----
-
 ## ✨ Features
 
 - **🤖 Personalized Advice**: Get tailored advice and motivation based on your details.
@@ -28,8 +26,6 @@ https://github.com/user-attachments/assets/248c1d8b-149c-4a40-9b6b-5198be731be0
 - **📱 Responsive Design**: Fully optimized for desktop and mobile users.
 - **🔒 Secure Backend**: Powered by Node.js for robust and secure data handling.
 
----
-
 ## 👩‍💻 Tech Stack
 
 - **Next.js**: Frontend framework for server-side rendering and static websites.
@@ -37,8 +33,6 @@ https://github.com/user-attachments/assets/248c1d8b-149c-4a40-9b6b-5198be731be0
 - **Gemini API**: Generates personalized advice and motivational messages.
 - **Tailwind CSS**: Styling for responsive and modern UI components.
 - **ReactMarkdown**: Renders markdown content dynamically.
-
----
 
 ## 📦 Getting Started
 
@@ -48,8 +42,6 @@ Follow these steps to set up the project on your local machine.
 
 - **Node.js** (v16.x or higher) and **npm** or **yarn**.
 - **Gemini API Key** for accessing AI functionalities.
-
----
 
 ## 🛠️ Installation
 
@@ -105,3 +97,5 @@ When reporting an issue, please include:
 - Steps to reproduce the issue.
 - Any relevant logs or screenshots.
 - The environment in which the issue occurs (OS, browser, Node.js version, etc.).
+
+---
