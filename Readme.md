@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/chatBot.png" width="90" alt="Logo" />
+<img src="./assets/robot.png" width="90" alt="Logo" />
 <h2> Personalized AI Advisor </h2>
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Gemini_API-3982CE?style=for-the-badge&logo=data&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-https://github.com/user-attachments/assets/b1f3d9f8-8ddf-403b-a483-7fe21d737e43
+https://github.com/user-attachments/assets/248c1d8b-149c-4a40-9b6b-5198be731be0
 
 </div>
 
